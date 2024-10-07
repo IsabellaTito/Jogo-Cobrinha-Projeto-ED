@@ -41,7 +41,7 @@ int main() {
 
       place();
       system("clear"); //terminal Linux
-      system("cls"); //terminal Windows
+      //system("cls"); //terminal Windows
       titulo();
       imprimircenario();
       
